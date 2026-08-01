@@ -22,7 +22,7 @@ This project exists because criticizing “vibe coding” does not help beginner
 4. Paste it into your AI coding agent at the beginning of a new app—or when bringing an early app under better structure.
 5. Let the agent inspect the workspace and ask questions before it begins implementation.
 
-You can also [view the raw prompt](https://raw.githubusercontent.com/BenWeisman96/generic-app-bootstrap-prompt/main/PROMPT.md) for easy copying.
+You can also [view the raw prompt](https://raw.githubusercontent.com/vibebusiness/generic-app-bootstrap-prompt/main/PROMPT.md) for easy copying.
 
 ## Who this is for
 
@@ -37,4 +37,3 @@ Released under [CC0 1.0](LICENSE), dedicating the prompt to the public domain to
 ---
 
 If this helped you and you want to support the developer behind it, check out [A.N.T AI](https://automaticnotetaker.com/)—an automatic note-taking app built for thoughts that arrive while real life is happening.
-
